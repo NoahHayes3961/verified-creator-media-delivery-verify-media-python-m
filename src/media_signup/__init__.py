@@ -1,0 +1,2 @@
+"""Media signup verification example."""
+
